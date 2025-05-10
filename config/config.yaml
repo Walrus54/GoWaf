@@ -1,0 +1,6 @@
+target_url: "http://localhost:5000"
+waf_port: ":3000"
+admin_port: ":3001"
+mode: "protection" 
+log_file: "waf.log"
+rules_file: "rules.yaml"
